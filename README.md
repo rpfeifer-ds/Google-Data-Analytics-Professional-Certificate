@@ -49,6 +49,10 @@ After completing the entire course, you will gain the following skillsets:
 - Data Analysis Process (Ask, Prepare, Process, Analyze, Share, Act)
 - Data Lifecycle (Plan, Capture, Manage, Analyze, Archive, Destroy)
 - Data Visualization (DataViz)
+- Data Storytelling
+- Data Validation
+- Data Structures
+- Data Literacy
 - Spreadsheet
 - Metadata
 - BigQuery
@@ -58,6 +62,7 @@ After completing the entire course, you will gain the following skillsets:
 - Data Aggregation
 - R Programming
 - R Markdown
+- Ggplot2
 - Tableau
 - Structured Thinking
 - Data Integrity
@@ -96,7 +101,7 @@ Furthermore, the curriculum provided an introduction to *Tableau*, a widely-used
 
 ### Course 7: Data Analysis with R Programming
 
-This course serves as a foundational introduction to R programming. The course comprehensively covers essential topics like functions, variables, comments, vectors, pipes, and data types.
+This course serves as a foundational introduction to R programming. The course comprehensively covers essential topics like functions, variables, comments, vectors, pipelines and data types.
 
 Although it offers a relatively basic overview of R, it equips learners with the necessary skills to create visualizations effectively. The final section of the course delves into R Markdown, adding an important component to the repertoire of data analysis and report generation techniques.
 
@@ -108,7 +113,7 @@ This course engages in a comprehensive Case Study: This course entails the pract
 
 I found the course quite enjoyable as it effectively conveyed the information in a user-friendly manner. Even individuals without a mathematical or technical background should be able to successfully complete the course with dedication and effort. It provided a foundational understanding of the data analyst role while delving into the essential tools utilized by data analysts, including SQL, Tableau, and Spreadsheets.
 
-As someone who already has some experience in data analytics, I took this course quite fast since it only took me about 1 month and a half. However, I can feel that the course covers more theoretical background related to the concept which is not in-depth yet.
+As someone who had an academic experience with data analytics, I took this course quite fast since it only took me about 2 months and a half. However, I can feel that the course covers more theoretical background related to the concept which is not in-depth yet.
 
 Hence, here is the thing you should be aware of before taking the course: 
 This program may not fully prepare you for the job market as it claims to do. Many individuals, including myself, feel that additional learning and practice beyond this course are necessary to become job-ready. For instance, refreshing your knowledge of SQL and acquiring more in-depth skills in Tableau and R might be essential. Switching careers to become a data analyst requires more than just completing this program. It entails building a comprehensive portfolio, refining your resume, and actively networking to enhance your job prospects.
